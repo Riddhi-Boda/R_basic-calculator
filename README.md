@@ -4,7 +4,6 @@ This is a **Basic Calculator** built using **HTML, CSS, and JavaScript** as part
 
 It performs all standard arithmetic operations, along with extra features like square root, percentage, clear, delete, and full keyboard support.
 
----
 
 ## 📌 Features
 
@@ -20,7 +19,6 @@ It performs all standard arithmetic operations, along with extra features like s
 - 📱 Responsive layout and interactive UI
 - 🚫 Error Handling (e.g. division by zero)
 
----
 
 ## 🛠️ Technologies Used
 
@@ -28,10 +26,14 @@ It performs all standard arithmetic operations, along with extra features like s
 - **CSS3** – Styling and responsive design
 - **JavaScript** – Functionality and logic
 
----
 
 ## 💻 How to Run the Project
 
 1. Clone or download this repository:
    ```bash
    git clone https://github.com/Riddhi-Boda/basic-calculator
+   
+## 🌐 Live Demo
+[View Calculator Live]
+👉 https://riddhi-boda.github.io/R_basic-calculator/
+
